@@ -1,6 +1,11 @@
 package summary_61_611;
 
 public class summary_61_611 {
+    class ListNode {
+        int val;
+        ListNode next;
+        ListNode(int x) { val = x; }
+    }
 
     public static void main(String[] args) {
         System.out.println(climbStairs(45));
@@ -54,6 +59,20 @@ public class summary_61_611 {
             second = temp;
         }
         return temp;
+    }
+
+    //6_8链表反转
+    public ListNode reverseList(ListNode head) {
+        ListNode pre = null;
+        ListNode cur = head;
+        while (cur!=null){
+            ListNode tmp = cur.next;
+            cur.next = pre;
+            pre = cur;
+            cur = tmp;
+        }
+
+        return pre;
     }
 
 }
