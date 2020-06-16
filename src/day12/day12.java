@@ -9,19 +9,19 @@ public class day12 {
         ListNode(int x) { val = x; }
     }
 
-    public boolean isPalindrome(ListNode head){
-        if (head == null || head.next==null)
-            return false;
-        ListNode fast = head;
-        ListNode slow = head;
-        while (fast!=null && fast.next.next !=null){
-            ListNode tmp = slow;
-            slow = slow.next;
-            fast = fast.next.next;
-        }
-
-
-    }
+//    public boolean isPalindrome(ListNode head) {
+//        if (head == null || head.next == null)
+//            return false;
+//        ListNode fast = head;
+//        ListNode slow = head;
+//        while (fast != null && fast.next.next != null) {
+//            ListNode tmp = slow;
+//            slow = slow.next;
+//            fast = fast.next.next;
+//        }
+//
+//
+//    }
 
 
 
