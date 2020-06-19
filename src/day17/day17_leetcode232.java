@@ -1,6 +1,7 @@
 package day17;
 
 
+import java.util.Queue;
 import java.util.Stack;
 
 public class day17_leetcode232 {
@@ -9,10 +10,12 @@ public class day17_leetcode232 {
         Stack<Integer> stack1 = null;
         Stack<Integer> stack2 = null;
 
+
         /** Initialize your data structure here. */
         public MyQueue() {
             stack1 = new Stack<>();
             stack2 = new Stack<>();
+
         }
 
         /** Push element x to the back of queue. */
