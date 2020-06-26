@@ -19,12 +19,13 @@ public class day24_leecode_141 {
             fast = fast.next;
             if(fast != null){
                 fast = fast.next;
+                slow = slow.next;
             }
             if(fast == slow){
                 return true;
             }
 
-            slow = slow.next;
+
         }
         return false;
     }
