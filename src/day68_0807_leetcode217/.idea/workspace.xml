@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17d39332-c491-4c64-8ebf-19f9b3b95ba0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ag_stuct/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ag_stuct/LinkList/LinkedList_v1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ag_stuct/LinkList/LinkedList_v2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ag_stuct/LinkList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ag_stuct/TestBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ag_stuct/queue/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ag_stuct/queue/LooperQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ag_stuct/queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ag_stuct/stack/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ag_stuct/stack/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day57_0727/DoubleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day58_0728/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day58_0728/day58_leetcode146.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day59_0729/day59_leetcode148.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day59_0729/day59_leetcode148.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day59_0729/day59_leetcode148.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day61_0731_leetcode349/day61_leetcode349.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day64_0803_leetcode20/day64_leetcode20.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day64_0803_leetcode20/day64_leetcode20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day65_0804_leetcode405/day65_leetcode405.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day65_0804_leetcode405/day65_leetcode405.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day67_0806_leetcode693/day67_leetcode493.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day67_0806_leetcode693/day67_leetcode693.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day68_leetcode217.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day68_leetcode217.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/h0804_0809/homework6_thread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/algorithm_java/META-INF/algorithm_java.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/algorithm_java/META-INF/algorithm_java.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/algorithm_java/ag_stuct/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/algorithm_java/ag_stuct/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/algorithm_java/day02/day02.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/algorithm_java/day02/day02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/algorithm_java/day09/day09$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/algorithm_java/day09/day09$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/algorithm_java/day09/day09$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/algorithm_java/day09/day09$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/algorithm_java/day09/day09.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/algorithm_java/day09/day09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/algorithm_java/day17/day17_leetcode232$MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/algorithm_java/day17/day17_leetcode232$MyQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/algorithm_java/day17/day17_leetcode232.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/algorithm_java/day17/day17_leetcode232.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ag_stuct/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ag_stuct/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day09/day09.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day09/day09.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1gGMwd9BQR25bGQa7BpmInEaG3Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17d39332-c491-4c64-8ebf-19f9b3b95ba0" name="Default Changelist" comment="" />
+      <created>1597736715151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597736715151</updated>
+      <workItem from="1597736716663" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
