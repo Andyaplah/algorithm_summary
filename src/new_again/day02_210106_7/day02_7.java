@@ -38,9 +38,9 @@ public class day02_7 {
     }
 
     public static void main(String[] args) {
-       //reverse(21);
+       reverse(-121);
        // System.out.println(178888%10);
-        System.out.println(Integer.MAX_VALUE);
-        System.out.println(Integer.MIN_VALUE);
+        //System.out.println(Integer.MAX_VALUE);
+        //System.out.println(Integer.MIN_VALUE);
     }
 }
